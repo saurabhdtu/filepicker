@@ -25,6 +25,7 @@ public class FilePickerActivity extends BaseFilePickerActivity implements
         PhotoPickerFragmentListener,
         DocFragment.DocFragmentListener,
         DocPickerFragment.DocPickerFragmentListener,
+
         MediaPickerFragment.MediaPickerFragmentListener{
 
     private static final String TAG = FilePickerActivity.class.getSimpleName();
